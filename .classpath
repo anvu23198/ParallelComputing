@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/hivemq-mqtt-client-1.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/annotations-16.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/dagger-2.20.jar"/>
+	<classpathentry kind="lib" path="lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="lib/jctools-core-2.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/netty-buffer-4.1.32.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-codec-4.1.32.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-codec-http-4.1.32.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-common-4.1.32.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-handler-4.1.32.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-resolver-4.1.32.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-transport-4.1.32.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-transport-native-epoll-4.1.32.Final-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="lib/netty-transport-native-unix-common-4.1.32.Final.jar"/>
+	<classpathentry kind="lib" path="lib/rxjava-2.2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
